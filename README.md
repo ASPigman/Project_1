@@ -1,6 +1,9 @@
 # Project_1
 Kidney Transplant Analysis
 
+
+**Citations:**
+
 Contributors:
 
 [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/)
@@ -14,3 +17,11 @@ Contributors:
 Datasets acquired at:
 
 [Organ Procurement & Transplantation Network](https://optn.transplant.hrsa.gov/)
+
+Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
+
+Assistants:
+
+[Jacob Peroutek](https://www.linkedin.com/in/jperoutek/)
+
+[Isabella Taylor[(https://www.linkedin.com/in/isabellajade/)
