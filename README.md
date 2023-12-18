@@ -37,6 +37,8 @@ Demographics with the longest wait times were as follows:
   - Age: 50-64 year olds waited the longest in Oklahoma and USA
   - Ethnicity: White/Non-Hispanic waited the longest in Oklahoma, Black waited the longest in the USA
 
+Further conclusions we can draw from our study is that we need more information, more datasets, etc because there are far more variables that we are not able to analyze. The data we were studying only included patients who could pay for treatment but we did not explore the varying payment types. There are a whole subset of people who cannot afford treatment who need kidney transplants. These patients were not respresented in our datasets.
+
 
 **CALL TO ACTION**
 
