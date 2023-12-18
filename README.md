@@ -40,7 +40,7 @@ We executed chi-square tests for each variable - age, gender, ethnicity, and blo
 
 Thousands of people across the USA and hundreds right here in Oklahoma need a kidney transplant. YOU CAN HELP! Consider becoming an organ donor by indicating your wishes on your driver's license. Or if you would like to sign up online, start at [LifeShareRegistry](https://www.lifeshareregistry.org/register/) and follow the instructions listed there. Be sure to share your decisions with your family!
 
-SHARE YOUR SPARE
+**SHARE YOUR SPARE**
 
 You may even choose to go a step further and become a living donor. You only need one kidney to live a healthy life! Consider "sharing your spare."
 
