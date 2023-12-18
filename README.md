@@ -18,7 +18,7 @@ In our study we compared wait times between people living in Oklahoma and Nation
   - The dataset kept including commas and quotations that didn't appear in the original dataset. Instead we coded a comma/quotation removal.
   - In our dataset, one person was listed multiple times based on how many ethnicities they identified with. These individuals had to be grouped together at not be counted more than once.
 
-- Stastical Analysis
+- Statistical Analysis
   - The dataset we were able to obtain used a wait time range instead of numerical values for each patient. The ranges proved to be challenging in calculating statistical analysis in any capacity. These were later transposed into numerical values or medians per category.
   - Chi-square testing did not compute in our Jupyter Notebook for ethnicities. 597/7 had too many digits for the calculation to register correctly. However we were able to find an online calculator at [GraphPad](https://www.graphpad.com/quickcalcs/chisquared2/)
   - We were unable to use t-testing because we felt that averaging out wait time ranges for kidney transplants was misleading and unethical; the larger the wait time the more drastic the difference would be between one patient to the next in that given category.
