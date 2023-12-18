@@ -48,3 +48,11 @@ Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-21
 Assistants: [Jacob Peroutek](https://www.linkedin.com/in/jperoutek/) [Isabella Taylor](https://www.linkedin.com/in/isabellajade/)
 
 Chi-square test calculation for ethnicities: [GraphPad](https://www.graphpad.com/quickcalcs/chisquared2/)
+
+Clean Value Function for removing commas and quotations in cleaned data [Stack Overflow](https://stackoverflow.com/questions/73951038/how-can-i-use-this-message-to-filter) [django](https://docs.djangoproject.com/en/5.0/ref/forms/validation/)
+
+Transpose function for easier plotting [w3resource](https://www.w3resource.com/pandas/dataframe/dataframe-transpose.php)
+
+Median function instead of Mean function suggested by Ask BCS Learning Assistant
+
+
