@@ -34,15 +34,15 @@ We executed chi-square tests for each variable - age, gender, ethnicity, and blo
 
 **Citations:**
 
-Contributors:
+- Contributors:
 
-- [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/)
+  - [Amanda Hinkle](https://www.linkedin.com/in/amanda-hinkle-9105941b6/)
 
-- [Barb Rupps](https://www.linkedin.com/in/barbrupps/)
+  - [Barb Rupps](https://www.linkedin.com/in/barbrupps/)
 
-- [Amanda Pigman](https://www.linkedin.com/in/amanda-pigman-904558227/)
+  - [Amanda Pigman](https://www.linkedin.com/in/amanda-pigman-904558227/)
 
-- [Cory (Chapman) Houston](https://www.linkedin.com/in/cory-houston-679447147/)
+  - [Cory (Chapman) Houston](https://www.linkedin.com/in/cory-houston-679447147/)
 
     - Instructor: [Othmane Benyoucef](https://www.linkedin.com/in/othmane-benyoucef-219a8637/)
 
@@ -55,7 +55,7 @@ Datasets acquired at: [Organ Procurement & Transplantation Network](https://optn
 
 Chi-square test calculation for ethnicities: [GraphPad](https://www.graphpad.com/quickcalcs/chisquared2/)
 
-Clean Value Function for removing commas and quotations in cleaned data [Stack Overflow](https://stackoverflow.com/questions/73951038/how-can-i-use-this-message-to-filter) [django](https://docs.djangoproject.com/en/5.0/ref/forms/validation/)
+Clean Value Function for removing commas and quotations in cleaned dataset [Stack Overflow](https://stackoverflow.com/questions/73951038/how-can-i-use-this-message-to-filter) [django](https://docs.djangoproject.com/en/5.0/ref/forms/validation/)
 
 Transpose function for easier plotting [w3resource](https://www.w3resource.com/pandas/dataframe/dataframe-transpose.php)
 
