@@ -25,11 +25,13 @@ In our study we compared wait times between people living in Oklahoma and Nation
 
 As of December 8 2023 there were 88,767 people waiting for a kidney transplant in the USA. Of those 88,767, 597 of them reside in Oklahoma. We have rejected our null hypothesis finding that several factors contribute to longer wait times for receiving a kidney transplant. The demographics with the longest wait times had O blood type, were men, between the ages of 50-64, and were white/non-Hispanic. The median wait time is between 1 and 2 years for a kidney transplant no matter the variables.
 
-We executed chi-square tests for each variable - age, gender, ethnicity, and blood type.
-
 **Our Null Hypothothesis  (H0):** Wait times are about the same for everyone who needs a kidney transplant both in Oklahoma and Nationwide.
 
-**Our Alternative Hypothesis (H1):** Demographics with the longest wait times were as follows:
+We executed chi-square tests for each variable - age, gender, ethnicity, and blood type. By assessing the p-values, we found that they are all extremely small (basically zero) for each category essentially causing us to reject our null hypothesis.
+
+**Our Alternative Hypothesis (H1):** Wait times are different based on different demographics such as blood type, gender, age, and ethnicity both in Oklahoma and Nationwide.
+
+Demographics with the longest wait times were as follows:
   - Blood Type: O blood type in both Oklahoma and the USA had the longest wait times
   - Gender: Men waited longer in both Oklahoma and USA statistics
   - Age: 50-64 year olds waited the longest in Oklahoma and USA
