@@ -7,7 +7,13 @@ Our team of four students came up with a project to analyse and compare kidney t
 
 In our study we compared wait times between people living in Oklahoma and Nationwide. We used bar graphs, boxplots, and chi tests to execute comparisons.
 
-**Our Null Hypothothesis:** Wait times are about the same for everyone who needs a kidney transplant both in Oklahoma and Nationwide.
+**Our Null Hypothothesis  (H0):** Wait times are about the same for everyone who needs a kidney transplant both in Oklahoma and Nationwide.
+
+**Our Alternative Hypothesis (H1):** Demographics with the longest wait times were as follows:
+  - Blood Type: O blood type in both Oklahoma and the USA had the longest wait times
+  - Gender: Men waited longer in both Oklahoma and USA statistics
+  - Age: 50-64 year olds waited the longest in Oklahoma and USA
+  - Ethnicity: White/Non-Hispanic waited the longest in Oklahoma, Black waited the longest in the USA
 
 
 **Challenges We Faced:**
